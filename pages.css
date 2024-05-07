@@ -48,6 +48,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  opacity: 0;
    animation: leftSideAni 1s ease forwards;
    animation-delay: 1s;
 }
@@ -257,6 +258,7 @@ img {
   row-gap: 2rem;
   text-align: center;
   align-content: center;
+  
 }
 .skills__subtitle {
   margin-bottom: var(--mb-2);
